@@ -37,10 +37,9 @@ for p in palabras:
     print(p, embedding_simple(p))
 ```
 
-Explicar:
 esto es equivalente a una tabla de representación.
 
-### Ejercicio guiado 4: medir similitud entre palabras
+### Ejercicio guiado: medir similitud entre palabras
 
 ```python
 print("gato-felino:", distancia(embedding_simple("gato"), embedding_simple("felino")))
@@ -52,5 +51,4 @@ Interpretación guiada:
 
 * menor distancia → más parecido
 * mayor distancia → menos parecido
-  
 

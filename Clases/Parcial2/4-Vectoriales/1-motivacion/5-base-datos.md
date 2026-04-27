@@ -6,9 +6,11 @@ Vamos a construir algo más cercano a una BD.
 base = ["gato", "felino", "perro", "auto"]
 ```
 
-### Ejercicio guiado 5: búsqueda por similitud
+### Ejercicio guiado: búsqueda por similitud
 
 ```python
+base = ["gato", "felino", "perro", "auto"]
+
 def buscar(query):
     q_vec = embedding_simple(query)
     resultados = []
@@ -70,5 +72,4 @@ Vectores:
 
 Aquí no hay igualdad.
 Hay proximidad.
-
 
