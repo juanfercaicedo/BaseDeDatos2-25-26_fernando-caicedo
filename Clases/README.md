@@ -34,9 +34,9 @@
   - [ ] BD Vectoriales
     
     - [x] [Búsqueda semántica: problema y motivación](Parcial2/4-Vectoriales/1-motivacion)
-    - [ ] [Práctica guiada: búsqueda semántica funcional](Parcial2/4-Vectoriales/2-practica-guiada)
-    - [ ] [Embeddings: fundamentos e intuición](Parcial2/4-Vectoriales/3-embeddings)
-    - [ ] [Práctica: generación y uso de embeddings](Parcial2/4-Vectoriales/4-practica-embeddings)
+    - [x] [Embeddings: fundamentos e intuición](Parcial2/4-Vectoriales/2-embeddings)
+    - [ ] [Búsqueda y estructuras](Parcial2/4-Vectoriales/3-busquedas)
+    - [ ] [Pipeline completo](Parcial2/4-Vectoriales/4-pipeline)
     - [ ] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/6-taller)
   - [ ] Examen del Segundo Parcial
   - [ ] Revisión del Examen del Segundo Parcial
