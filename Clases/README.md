@@ -38,7 +38,7 @@
     - [x] [Búsqueda y estructuras](Parcial2/4-Vectoriales/3-busquedas)
     - [x] [Pipeline completo](Parcial2/4-Vectoriales/4-pipeline)
     - [x] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/5-taller)
-  - [ ] Examen del Segundo Parcial
+  - [x] [Examen del Segundo Parcial](../../evaluaciones/examenes/examenParcial2)
   - [ ] Revisión del Examen del Segundo Parcial
 - [ ] Examen Final
 - [ ] Revisión del Examen Final
